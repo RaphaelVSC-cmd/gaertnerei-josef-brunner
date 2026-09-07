@@ -1,0 +1,3 @@
+@echo off
+echo Starte Gaertnerei Josef Brunner Website...
+start "" "index.html"
